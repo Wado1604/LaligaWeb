@@ -13,7 +13,7 @@ body {
 }
 
 header, nav, section, footer {
-    margin: 20px;
+    margin: 70px;
    
 }
 
@@ -45,7 +45,7 @@ footer {
 
 /* Estilos de los equipos */
 .equipo {
-    border: 10px solid #ccc;
+    border: 10px solid #131212d8;
     padding: 10px;
     margin-bottom: 20px;
 }
@@ -56,6 +56,11 @@ footer {
 
 .equipo p {
     margin-bottom: 0;
+}
+.jugadores  {
+    border: 10px solid #cccccc5e;
+    padding: 10px;
+    margin-bottom: 20px;
 }
 
 
